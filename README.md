@@ -12,8 +12,8 @@ Before running the test cases, make sure you have the following installed:
     -**ChromeDriver**
 
 ## Test Cases 
-These are the test cases for this repository:
-    1. userAuthentication.robot
-    2. shoppingCart.robot
-    3. productInventory.robot
+These are the test cases for this repository:<be>
+    1. userAuthentication.robot<br>
+    2. shoppingCart.robot<br>
+    3. productInventory.robot<br>
     4. checkoutProcess.robot
