@@ -12,7 +12,7 @@ Before running the test cases, make sure you have the following installed:
     -**ChromeDriver**
 
 ## Test Cases 
-These are the test cases for this repository:<be>
+These are the test cases for this repository:<br>
     1. userAuthentication.robot<br>
     2. shoppingCart.robot<br>
     3. productInventory.robot<br>
